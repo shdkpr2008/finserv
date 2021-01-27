@@ -7,7 +7,7 @@ A Java based spring application providing financial services
 3. Tomcat/Jboss/JNiT (Any container tech)
 
 ### ToDo
-0. Dockerize
+0. ~~Dockerize~~
 1. Add H2 DataStore
 2. Add Entities
 3. Add Business Logic
