@@ -17,10 +17,12 @@ Package file is created in `war` format, which can be used independently with mo
 
 
 ### Work In Progress
-1. Add H2 DataStore
-2. Add Entities
-3. Add Business Logic
-4. Make forward compatible with Spring Boots
-5. Make forward compatible with Google Guice
-6. Add ELK
+0. ~~Add Docker Support~~
+1. ~~Add H2 DataStore~~
+2. ~~Handle Exceptions~~
+3. ~~Add Entities~~
+4. Add Business Logic
+5. Make forward compatible with Spring Boots
+6. Make forward compatible with Google Guice
+7. Add ELK
   
